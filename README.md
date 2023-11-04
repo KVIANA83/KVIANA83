@@ -9,9 +9,9 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KVIANA83&show_icons=true&theme=transparent)
+<img width="49%" height="195px" src=" ![Anurag's Github stats] https://github-readme-stats.vercel.app/api?username=KVIANA83&show_icons=true&theme=transparent)" >
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KVIANA83&layout=compact&theme=transparent)
+<img width="41%" height="195px" src=" ![Anurag's GitHub stats] https://github-readme-stats.vercel.app/api/top-langs/?username=KVIANA83&layout=compact&theme=transparent)" >
 
 </div>
