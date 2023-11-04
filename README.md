@@ -29,5 +29,10 @@
  </div>
  <br><br><br>
 
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,java,spring" />
+</a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
