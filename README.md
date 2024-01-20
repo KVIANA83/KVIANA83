@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 <div id="top"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%FFB6C1CE&size=30&center=true&vCenter=true&width=500&lines=Olá,+Eu+sou+Karine+Viana...;Seja+bem-vindo+ao+meu+perfil!"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%EA5B5BCE&size=30&center=true&vCenter=true&width=500&lines=Olá,+Eu+sou+Karine+Viana...;Seja+bem-vindo+ao+meu+perfil!"></a>
 </div>
 <br><br><br>
 
