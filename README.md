@@ -9,8 +9,8 @@
 
 <div align="center">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KVIANA83&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=00000000" alt="Karine Viana Caldas Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVIANA83&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=00000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KVIANA83&show_icons=true&count_private=true&hide_border=true&title_color=751594&icon_color=751594&text_color=c9d1d9&bg_color=00000000" alt="Karine Viana Caldas Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVIANA83&layout=compact&hide_border=true&title_color=751594&text_color=751594&bg_color=00000000" />
 
 </div>
 <br><br><br>
