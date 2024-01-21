@@ -13,7 +13,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVIANA83&layout=compact&hide_border=true&title_color=751594&text_color=751594&bg_color=00000000" />
 
 </div>
-<br><br><br>
+<br><br>
 
 
 <p align="center">
