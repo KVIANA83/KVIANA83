@@ -35,7 +35,7 @@
 </a>
 </p><br>
 
-<p align="center">Total de Visitas do Perfil</p>
+<p align="center">Total de Visitas no meu Perfil</p>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/KVIANA83/count.svg" />
  </p>
