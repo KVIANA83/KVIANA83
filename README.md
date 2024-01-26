@@ -36,7 +36,7 @@
 </p>
 
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/KVIANA83/count.svg" />
  </p>
 
 
