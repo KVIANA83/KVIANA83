@@ -33,8 +33,9 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,java,spring" />
 </a>
-</p>
+</p><br>
 
+<p align="center">Total de Visitas do Perfil></p>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/KVIANA83/count.svg" />
  </p>
