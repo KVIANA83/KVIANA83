@@ -35,6 +35,8 @@
 </a>
 </p><br>
 
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
 <p align="center">Total de Visitas no meu Perfil</p>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/KVIANA83/count.svg" />
